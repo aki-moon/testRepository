@@ -1,5 +1,5 @@
 # testRepository
-## Githubの操作テスト
+## Githubの操作をテストするためのRepository
 - [] create repository 
 - [] clone
 - [] commit
