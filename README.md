@@ -1,2 +1,6 @@
 # testRepository
-test
+## Githubの操作テスト
+- [] create repository 
+- [] clone
+- [] commit
+- [] push
