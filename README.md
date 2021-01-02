@@ -1,6 +1,7 @@
 # testRepository
 ## Githubの操作をテストするためのRepository
-- [] create repository 
-- [] clone
-- [] commit
-- [] push
+- [×] create repository 
+- [×] clone
+- [×] add
+- [×] commit
+- [×] push
